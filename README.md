@@ -1,4 +1,4 @@
-### About Me 👋
+## Cyan101/Jos 👋
 My resume is [here](https://docs.google.com/document/d/1jFtTw4KSLTL-M5nFWiZO5dng_CpxUJJhpVGq74jYbo8/edit?usp=sharing) (PDF/Docx in my Profile Repo [here](https://github.com/Cyan101/Cyan101/)).
 
 Favourite programmming language is Ruby.
@@ -10,7 +10,7 @@ Enjoy watching Anime, Detective, Sci-Fi and Comedy Shows.
 My programming usually contains catgirls, but I do my best to keep them SFW as possible.
 
 
-# I'm looking for some projects to get into, feel free to DM if you have any!
+### I'm looking for some projects to get into, feel free to DM if you have any!
 I'd recommend checking out the pinned repo's to understand my skills.
 
 * Sapphire: Ruby-Based Discord bot with modular features including; Web Scraping for Coupons, Making memes/gifs, Reverse Image Searching and Polling/Voting Tools.
@@ -22,7 +22,7 @@ I'd recommend checking out the pinned repo's to understand my skills.
 * Splat2Ink: Ruby-Based backend that clones nintendos splatoon2 API for map and item rotations, also contains a Flutter-Based Android/iOS App.
 
 
-# Social Media
+### Social Media
 
 Discord is `Cyan#0340`.
 
