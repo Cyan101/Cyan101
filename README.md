@@ -30,7 +30,7 @@ Steam is [`Cyan101`.](https://steamcommunity.com/id/cyan101/)
 
 My Professional email is [`josspencer1998@gmail.com`](mailto:josspencer1998@gmail.com).
 
-Twitter is [`Cyan_101`](https://twitter.com/Cyan_101) But I wouldn't recommend following me.
+Twitter is [`JosSpencer`](https://twitter.com/JosSpencer) But I only really tweet/use my personal account.
 
 <!--
 **Cyan101/Cyan101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
