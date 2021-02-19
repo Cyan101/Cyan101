@@ -20,29 +20,3 @@ I'd recommend checking out the pinned repo's to understand my skills.
 * Web-Dash: Crystal/JS-Based Front-end for monitoring stats on a VPS, has CPU usage, HDD Space, Memory Usage and quick-links for other popular web-apps.
 
 * Splat2Ink: Ruby-Based backend that clones nintendos splatoon2 API for map and item rotations, also contains a Flutter-Based Android/iOS App.
-
-
-### Social Media
-
-Discord is `Cyan#0340`.
-
-Steam is [`Cyan101`.](https://steamcommunity.com/id/cyan101/)
-
-My Professional email is [`josspencer1998@gmail.com`](mailto:josspencer1998@gmail.com).
-
-Twitter is [`JosSpencer`](https://twitter.com/JosSpencer) But I only really tweet/use my personal account.
-
-<!--
-**Cyan101/Cyan101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
