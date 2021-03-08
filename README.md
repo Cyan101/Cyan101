@@ -1,6 +1,4 @@
 ## Cyan101/Jos 👋
-My resume is [here](https://docs.google.com/document/d/1jFtTw4KSLTL-M5nFWiZO5dng_CpxUJJhpVGq74jYbo8/edit?usp=sharing) (PDF/Docx in my Profile Repo [here](https://github.com/Cyan101/Cyan101/)).
-
 Favourite programmming language is Ruby.
 
 Love RPGs, MMOs, Card, Story-Focused and Turn-Based Strategy Games.
