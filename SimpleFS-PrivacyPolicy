@@ -1,0 +1,56 @@
+# Privacy Policy for SimpleFS
+
+**Effective Date:** March 30, 2025
+
+SimpleFS ("we", "our", or "the App") is a local file browser and archive management application for Android devices. Your privacy is important to us. This Privacy Policy explains how SimpleFS handles your information and device permissions.
+
+---
+
+## 1. Information Collection and Use
+
+**SimpleFS does not collect, store, or transmit any personal data or user telemetry.**
+
+- **No Personal Information:** We do not collect names, email addresses, phone numbers, location data, or device identifiers.
+- **No File Uploads:** All file management operations—including browsing, creating, renaming, deleting, previewing, and extracting archives—are performed strictly on your local device. Your files are never uploaded to any remote server or cloud service by SimpleFS.
+- **No Analytics or Tracking:** The App does not include third-party analytics, tracking SDKs, or advertising networks.
+
+---
+
+## 2. Device Permissions
+
+To function as a file manager, SimpleFS requests access to device storage. These permissions are used exclusively for core app functionality:
+
+- **Storage & Media Permissions** (`MANAGE_EXTERNAL_STORAGE`, `READ_EXTERNAL_STORAGE`, `WRITE_EXTERNAL_STORAGE`, `READ_MEDIA_IMAGES`, `READ_MEDIA_VIDEO`, `READ_MEDIA_AUDIO`): Required to browse, organize, preview, and manage your local files, folders, and archives as requested.
+- **Internet Access** (`INTERNET`): Used solely for opening external web links or handing off viewing requests to external apps via standard Android system intents. SimpleFS does not send your personal files over the network.
+
+---
+
+## 3. Data Retention and Security
+
+Because all file operations and settings storage occur locally on your device:
+- Your files and preferences remain stored on your local device storage.
+- Uninstalling the App or clearing its data removes any app-specific settings stored on your device.
+
+---
+
+## 4. Third-Party Services
+
+SimpleFS does not share any data with third parties or integrate third-party tracking services.
+
+---
+
+## 5. Children's Privacy
+
+SimpleFS does not collect any personal information from anyone, including children under the age of 13.
+
+---
+
+## 6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected in this document with an updated "Effective Date."
+
+---
+
+## 7. Contact Us
+
+If you have any questions or suggestions regarding this Privacy Policy, please open an issue or contact the project maintainer via the source repository.
